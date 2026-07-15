@@ -28,5 +28,5 @@ echo Para parar: Ctrl+C
 echo ==================================================
 echo.
 
-python -m streamlit run app_painel_produtos.py --server.port 8503 --server.headless false
+python -m streamlit run app_produtos.py --server.port 8503 --server.headless false
 pause

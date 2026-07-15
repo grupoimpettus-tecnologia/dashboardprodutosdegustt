@@ -26,7 +26,7 @@ Painel Streamlit para listar produtos por **categoria** e **unidade** das marcas
 
 ## Estrutura do projeto
 
-- `app_painel_produtos.py` — aplicação Streamlit deste painel
+- `app_produtos.py` — aplicação Streamlit deste painel
 - `degust_produtos.py` — integração com API Degust One
 - `Estrutura Base/` — Dashboard de Promoções (referência)
 
